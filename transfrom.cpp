@@ -1,14 +1,14 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int Dec_to_Bin(int dec, int loc);//dec十进制，loc位置
+int Dec_to_Bin(int dec, int loc);//dec脢庐陆酶脰脝拢卢loc脦禄脰脙
 int dec_to_bin(int dec, int loc);
 
 int main()
 {
 	int i, j;
 	printf("Please input the value of i and j:\t");
-	scanf_s("%d%d", &i, &j);
+	scanf("%d%d", &i, &j);
 	printf("%d\n%d\n", Dec_to_Bin(i, j), dec_to_bin(i, j));
 	return 0;
 }
