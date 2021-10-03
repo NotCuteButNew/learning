@@ -1,2 +1,2 @@
 # learning
-just recor what i learn
+just record what i learn
